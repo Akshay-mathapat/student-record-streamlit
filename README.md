@@ -98,3 +98,8 @@ http://localhost:8501
 <img width="1589" height="517" alt="Screenshot 2026-03-07 103214" src="https://github.com/user-attachments/assets/df5fa194-9a69-4540-9ace-7cbcdbbbd649" />
 <img width="1822" height="723" alt="Screenshot 2026-03-07 103127" src="https://github.com/user-attachments/assets/000a08b8-a2db-4792-b8bb-b9b7898c7990" />
 <img width="1856" height="767" alt="Screenshot 2026-03-07 103226" src="https://github.com/user-attachments/assets/b999f333-374d-47c0-8a1b-715d5b684b17" />
+## 🌐 Live Application
+
+You can access the live app here:
+
+https://student-record-appgit-le9eyqvvzuz3kn8dftfndh.streamlit.app/
